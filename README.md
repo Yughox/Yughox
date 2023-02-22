@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Yughox
-- 👀 I’m interested in Javascript 
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Ugo
+- 👀 I’m interested in Web development and Cyber Security 
+- 🌱 I’m currently learning Devops...
 - 💞️ I’m looking to collaborate on an app project 
-- 📫 How to reach me ...
+- 📫 How to reach me ... chuksdiamond@gmail.com
 
 <!---
 Yughox/Yughox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
