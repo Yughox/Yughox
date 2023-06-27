@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ugo Uche</h1>
-<h3 align="center">A passionate Devops and Cloud Engineer from United States</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yughox" alt="yughox" /></a> </p>
-
 - 🌱 I’m currently learning **AWS Cloud Engineering**
 
 - 👯 I’m looking to collaborate on **Cloud Related Projects**
