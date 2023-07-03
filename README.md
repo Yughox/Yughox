@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ugo Uche</h1>
 <h3 align="center">A passionate Devops and Cloud Engineer in United States</h3>
 
-- 🌱 I’m currently learning **AWS Cloud Engineering**
+- 🌱 I’m currently learning **AWS Cloud Services**
 
 - 👯 I’m looking to collaborate on **Cloud Related Projects**
 
